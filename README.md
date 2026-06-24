@@ -1,4 +1,4 @@
-# LegadoDigital - Acceptance Tests
+## LegadoDigital - Acceptance Tests
 
 Este repositorio contiene los archivos `.feature` elaborados para los Acceptance Tests del producto LegadoDigital.
 
