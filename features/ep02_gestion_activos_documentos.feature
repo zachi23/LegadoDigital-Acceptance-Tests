@@ -24,15 +24,15 @@ Característica: Gestión de activos y documentos digitales
     Y se encuentra en el formulario de registro de activo digital
     Cuando intenta guardar el activo sin completar el nombre
     Entonces el sistema no registra el activo digital
-    Y muestra el mensaje "El nombre del activo es obligatorio"
+    Y muestra el mensaje "El nombre del activo es obligatorio" 
 
   @US06 @funcional @duplicado
   Escenario: AT-US06-03 Registro de activo digital duplicado
     Dado que el usuario titular ya tiene registrado un activo llamado "Cuenta bancaria principal"
     Y se encuentra en la sección "Activos digitales"
-    Cuando intenta registrar otro activo con el mismo nombre y categoría
-    Entonces el sistema solicita confirmar si desea registrar un activo similar
-    Y no duplica el activo sin confirmación del usuario titular
+    Cuando intenta registrar otro activo con el mismo nombre y categoría  
+    Entonces el sistema solicita confirmar si desea registrar un activo similar 
+    Y no duplica el activo sin confirmación del usuario titular.
 
   @US10 @funcional @documento
   Escenario: AT-US10-01 Carga exitosa de documento importante
