@@ -1,7 +1,7 @@
-# language:  es
+# language: es
 
 Característica: Gestión de activos y documentos digitales
-  Como usuario titular de LegadoDigital
+  Como usuario titular de LegadoDigital 
   Quiero registrar activos digitales y cargar documentos importantes
   Para mantener mi información digital organizada y resguardada en un solo lugar
 
