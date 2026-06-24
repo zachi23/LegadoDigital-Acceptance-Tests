@@ -59,3 +59,5 @@ Característica: Configuración de permisos y reglas de acceso
     Cuando el beneficiario accede al flujo autorizado en una situación validada
     Entonces el sistema muestra únicamente el documento "Testamento digital"
     Y no muestra activos o documentos no autorizados por el usuario titular
+
+
