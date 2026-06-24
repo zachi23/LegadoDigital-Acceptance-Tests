@@ -1,4 +1,4 @@
-# language: es
+# language:  es
 
 Característica: Gestión de activos y documentos digitales
   Como usuario titular de LegadoDigital 
