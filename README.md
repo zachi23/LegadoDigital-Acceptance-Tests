@@ -1,6 +1,6 @@
 ## LegadoDigital - Acceptance Tests
 
-Este repositorio contiene los archivos `.feature` elaborados para los Acceptance Tests del producto LegadoDigital.
+Este repositorio contiene los archivos ".feature" elaborados para los Acceptance Tests del producto LegadoDigital.
 
 Los escenarios fueron redactados en lenguaje Gherkin, utilizando la estructura Dado que / Cuando / Entonces, con el objetivo de validar las User Stories seleccionadas del proyecto.
 
